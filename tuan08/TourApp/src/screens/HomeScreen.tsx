@@ -156,7 +156,7 @@ const HomeScreen = () => {
     <SafeAreaView style={styles.container}>
       <View style={styles.header}>
           <Text style={styles.title}>Tour Việt</Text>
-          <Text>23664121 - Lê Nguyễn Quốc Huy</Text>
+          <Text>23658461 - Dao Tien Dung</Text>
         </View>
 
       <View style={styles.searchContainer}>
